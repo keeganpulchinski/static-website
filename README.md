@@ -66,7 +66,4 @@ Verify that the website is accessible via the CloudFront distribution URL.
 
 If you encounter any issues during deployment, refer to the troubleshooting section in the documentation.
 
-## References
-
-Include links to AWS documentation and any other resources used during the implementation.
 
